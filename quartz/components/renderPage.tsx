@@ -16,7 +16,6 @@ interface RenderComponents {
   pageBody: QuartzComponent
   afterBody: QuartzComponent[]
   left: QuartzComponent[]
-  right: QuartzComponent[]
   footer: QuartzComponent
 }
 
@@ -195,7 +194,6 @@ export function renderPage(
     pageBody: Content,
     afterBody,
     left,
-    right,
     footer: Footer,
   } = components
   const Header = HeaderConstructor()
