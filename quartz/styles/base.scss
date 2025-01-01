@@ -156,7 +156,7 @@ a {
     column-gap: #{map-get($desktopGrid, columnGap)};
     row-gap: #{map-get($desktopGrid, rowGap)};
     grid-template-areas: #{map-get($desktopGrid, templateAreas)};
-    padding-right:200px;
+    padding-right:2rem;
     @media all and ($tablet) {
       grid-template-columns: #{map-get($tabletGrid, templateColumns)};
       grid-template-rows: #{map-get($tabletGrid, templateRows)};
