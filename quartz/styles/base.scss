@@ -150,6 +150,7 @@ a {
   }
 
   & > #quartz-body {
+    padding-right:2rem;
     display: grid;
     grid-template-columns: #{map-get($desktopGrid, templateColumns)};
     grid-template-rows: #{map-get($desktopGrid, templateRows)};
