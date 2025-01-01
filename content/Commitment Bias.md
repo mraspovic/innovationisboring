@@ -4,7 +4,7 @@ draft: false
 tags:
   - Setup
 ---
-
+jfsdfkljdlskf
 The way you communicate and think about your business idea influences your ability to drop it at the point where evidence tells you it doesn't work. Falling to commitment bias has decisive financial impact.
 # Definition
 ---
